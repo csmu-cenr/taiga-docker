@@ -1,2 +1,7 @@
 db-data
 static-data
+
+# Ensure no project backups are commited to the public repository.
+*.json
+*.sql
+*.tar.gz
